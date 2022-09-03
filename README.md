@@ -1,6 +1,4 @@
-# IBM-Project-33625-1660224672
-News Tracker Application
+<h1 align="center" style="margin-top: 0px;">News Tracker</h1>
 
-Web Application for reading News
-
-Made using Flask
+<p align="center" >Web Application for reading News</p>
+<p align="center" >Made using Flask</p>
